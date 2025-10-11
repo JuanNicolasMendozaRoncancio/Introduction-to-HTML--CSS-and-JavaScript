@@ -1,0 +1,21 @@
+body {
+  background-color: rgb(44, 216, 228)
+}
+
+h1{
+  font-family: arial;
+  font-size: 28;
+  color: black;
+}
+
+p {
+  font-family: arial;
+  font-size: 18px;
+  color: rgb(0, 0, 0);
+}
+
+div {
+  background-color: rgb(36, 22, 241);
+  width: 500px;
+  color: black;
+}
